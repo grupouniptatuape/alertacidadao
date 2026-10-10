@@ -1,2 +1,2 @@
 # alertacidadao
-Página para concentração do código da APS projeto Alerta Cidadão
+Aplicativo para alertas de clima extremos com sistema distribuído integrado.
